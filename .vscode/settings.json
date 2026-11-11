@@ -1,5 +1,6 @@
 {
     "jupyter.kernels.excludePythonEnvironments": [
         "/usr/bin/python3.11"
-    ]
+    ],
+    "python.terminal.useEnvFile": true
 }
